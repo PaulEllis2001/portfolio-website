@@ -15,6 +15,14 @@
     I created a comprehensive test suite to test the functionality of the data structure. The GitHub repository with a more detailed description can be found
     <a href="https://github.com/PaulEllis2001/UnsortedDLL">here</a>.
 </p>
+<h2>Senior Design Project: Totalled</h2>
+<p>
+    For my senior design project I worked with a team of 3 other students to create an application for the Boise State University Biomechanichal Engineering Department,
+    the goal of the project was to create invoices and individual team expense breakdowns from the annual expense report. This application reduced the time spent on this
+    task from days to seconds. The application was created using Kotlin, the Compose Multiplatform GUI, Apache POI for Excel sheet manipulation, and JUnit for testing.
+    My role in the project was to parse the Excel sheets to extract the team purchases. The GitHub repository with a more detailed description can be found 
+    <a href="https://github.com/cs481-ekh/s23-totalled">here</a>.
+</p>
 
 <h1> Personal Projects </h1>
 <h2> Personal Website </h2>

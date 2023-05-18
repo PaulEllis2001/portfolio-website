@@ -6,24 +6,24 @@
         <link rel="stylesheet" href="css/style.css" type="text/css">
     </head>
     <body>
-        <nav>
-            <div class="container">
-                <a href="index.php" id="logo">Home Page</a>
-                <ul>
-                    <li>
-                        <a href="personal.php">Personal Projects</a>
+        <div class="container">
+            <nav class="nav-bar">
+                <h2 class="nav-item"><a href="index.php" class="nav-link">Home Page</a></h2>
+                <ul class="nav-list">
+                    <li class="nav-item">
+                        <a href="projects.php" class="nav-link">Projects</a>
                     </li>
-                    <li>
-                        <a href="education.php">Education</a>
+                    <li class="nav-item">
+                        <a href="education.php" class="nav-link">Education</a>
                     </li>
-                    <li>
-                        <a href="work.php">Work Experience</a>
+                    <li class="nav-item">
+                        <a href="work.php" class="nav-link">Work Experience</a>
                     </li>
-                    <li>
-                        <a href="about.php">About</a>
+                    <li class="nav-item">
+                        <a href="about.php" class="nav-link">About</a>
                     </li>
                 </ul>
-            </div>
-        </nav>
-        <main>
-            <div class="container">
+            </nav>
+        </div>
+    <main>
+        <div class="container">
