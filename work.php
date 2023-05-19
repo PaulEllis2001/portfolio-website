@@ -1,5 +1,5 @@
 <?php include('includes/header.php'); ?>
-
+<div class="container black-border">
 <h1>Work Experience</h1>
 <h2>Amazon</h2>
 <p> 
@@ -24,5 +24,5 @@
     I was a rock climbing instructor and was responsible for safely setting up routes in the morning, managing safety
     equipment, teaching scouts how to climb and belay safely, and helping check in and out troops of scouts each week.
 </p>
-
+</div>
 <?php include('includes/footer.php'); ?>

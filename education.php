@@ -1,5 +1,5 @@
 <?php include('includes/header.php'); ?>
-<div>
+<div class="container black-border">
     <h1>Education</h1>
     <h2>Boise State University</h2>
     <p>

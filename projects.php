@@ -1,5 +1,5 @@
 <?php include('includes/header.php'); ?>
-
+<div class="container black-border">
 <h1> School Projects </h1>
 <h2> CS 401: Introduction to Web Development - FraudCoin</h2>
 <p>
@@ -30,5 +30,5 @@
     This website is another project of mine that I have written in PHP, CSS, HTML, and JavaScript. I have hosted this on a personal server
     that I am managing and own.
 </p>
-
+</div>
 <?php include('includes/footer.php'); ?>

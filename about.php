@@ -1,4 +1,5 @@
 <?php include('includes/header.php'); ?>
+<div class="container black-border">
 <h1> Contact Me </h1>
 <p>
     Email: <a href="mailto:paul@pdellis.com">paul@pdellis.com</a>
@@ -15,4 +16,5 @@
 <p>
     You can find my GitHub profile <a href="https://github.com/PaulEllis2001">here</a>.
 </p>
+</div>
 <?php include('includes/footer.php'); ?>
